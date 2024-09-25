@@ -19,7 +19,7 @@ This JavaScript-based app allows users to map and log their workouts, including 
 
 ## Live Demo
 
-Test the app live: [Workout Mapping App Live](#)
+Test the app live: [Workout Mapping App Live](https://vasanthrs-dev.github.io/mapty/)
 
 ## Tech Stack
 
